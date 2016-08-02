@@ -12,3 +12,7 @@ color:
 layout_spectrum: 0.190878
 name: Disruptivo
 typography_spectrum: 0.425675
+navigation:
+  - name: magnoliagrafica
+    url: 'http://toth.life'
+    type: external
